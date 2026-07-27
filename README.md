@@ -7,36 +7,22 @@ I enjoy designing and developing full-stack applications, solving algorithmic pr
 I enjoy building projects that solve real-world problems and believe the best way to learn is by creating, experimenting, and continuously improving.
 
 ---
-## 🛠️ Languages
+## 💻 Tech Stack
 
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
 </p>
 
-## 🌐 Frontend
-
+### Development
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,mongodb,mysql" />
 </p>
 
-## ⚙️ Backend
-
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-## 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
 ---
 ## 🚀 Interests
 
