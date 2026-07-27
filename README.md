@@ -1,10 +1,8 @@
 ## 👋 About Me
 
-Hi, I'm **Hrydya**, a B.Tech student at Netaji Subhas University of Technology (NSUT) with a strong interest in software engineering and building impactful products.
+Hi, I'm **Hrydya**.
 
-I enjoy designing and developing full-stack applications, solving algorithmic problems, and understanding how software systems work behind the scenes. Alongside academics, I'm gaining industry experience as a Test Automation Intern at Birlasoft while continuously improving my development and problem-solving skills.
-
-I enjoy building projects that solve real-world problems and believe the best way to learn is by creating, experimenting, and continuously improving.
+I'm a software developer focused on building full-stack applications, exploring backend systems, and creating products from idea to implementation.
 
 ---
 ## 💻 Tech Stack
